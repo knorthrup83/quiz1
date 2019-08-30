@@ -1,0 +1,26 @@
+@import "bootstrap";
+
+body {
+	background: image_url('tablecloth.gif');
+}
+
+h1 {
+	color: #1924B1;
+}
+
+.simple_form label {
+  float: left;
+  width: 100px;
+  text-align: right;
+  margin: 2px 10px;
+}
+
+
+.recipe-box {
+	width: 500px;
+	border: 3px solid blue;
+	margin: auto;
+	text-align: center;
+	background-color: white;
+	padding: 10px;
+}
